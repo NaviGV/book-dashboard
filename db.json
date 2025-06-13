@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "publishedYear": 1925,
+      "status": "Available",
+      "isbn": "978-0-7432-7356-5",
+      "description": "A classic American novel set in the Jazz Age."
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publishedYear": 1960,
+      "status": "Issued",
+      "isbn": "978-0-06-112008-4",
+      "description": "A gripping tale of racial injustice and childhood innocence."
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publishedYear": 1949,
+      "status": "Available",
+      "isbn": "978-0-452-28423-4",
+      "description": "A dystopian social science fiction novel."
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishedYear": 1813,
+      "status": "Available",
+      "isbn": "978-0-14-143951-8",
+      "description": "A romantic novel of manners set in Georgian England."
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "publishedYear": 1951,
+      "status": "Issued",
+      "isbn": "978-0-316-76948-0",
+      "description": "A controversial novel about teenage rebellion and angst."
+    },
+    {
+      "id": "6",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "publishedYear": 1997,
+      "status": "Available",
+      "isbn": "978-0-7475-3269-9",
+      "description": "The first book in the magical Harry Potter series."
+    },
+    {
+      "id": "7",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1954,
+      "status": "Available",
+      "isbn": "978-0-544-00341-5",
+      "description": "An epic high fantasy novel set in Middle-earth."
+    },
+    {
+      "id": "8",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "publishedYear": 2003,
+      "status": "Issued",
+      "isbn": "978-0-307-47572-5",
+      "description": "A mystery thriller involving art, history, and conspiracy."
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Philosophy",
+      "publishedYear": 1988,
+      "status": "Available",
+      "isbn": "978-0-06-112241-5",
+      "description": "A philosophical novel about following your dreams."
+    },
+    {
+      "id": "10",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "publishedYear": 2012,
+      "status": "Available",
+      "isbn": "978-0-307-58836-4",
+      "description": "A psychological thriller about a missing wife."
+    },
+    {
+      "id": "11",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "publishedYear": 2008,
+      "status": "Issued",
+      "isbn": "978-0-439-02348-1",
+      "description": "A dystopian novel set in post-apocalyptic North America."
+    },
+    {
+      "id": "12",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Mystery",
+      "publishedYear": 2005,
+      "status": "Available",
+      "isbn": "978-0-307-26975-1",
+      "description": "A crime thriller set in Sweden."
+    },
+    {
+      "id": "13",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "publishedYear": 2012,
+      "status": "Available",
+      "isbn": "978-0-14-242417-9",
+      "description": "A romantic novel about two teenagers with cancer."
+    },
+    {
+      "id": "14",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Drama",
+      "publishedYear": 2003,
+      "status": "Issued",
+      "isbn": "978-1-59448-000-3",
+      "description": "A story of friendship and redemption set in Afghanistan."
+    }
+  ]
+}
